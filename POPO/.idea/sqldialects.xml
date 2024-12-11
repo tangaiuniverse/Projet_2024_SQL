@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/evenement/requete_cre.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/evenement/schema_cre.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/evenement/schema_des.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/evenement/table_cre.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/evenement/table_ret.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/test/evenement/table_test-val.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/test/evenement/test.sql" dialect="PostgreSQL" />
+  </component>
+</project>
