@@ -2,9 +2,9 @@
 -- =========================================================================== A
 -- Insertion des données valides pour tester les tables.
 -- -----------------------------------------------------------------------------
-Produit  : KAO
+Produit  : POPO
 Version  : 0.0.0
-Statut   : en développement
+Statut   : FINI
 -- =========================================================================== A
 */
 --
@@ -141,14 +141,13 @@ values (401, 'https://event.com/virtual-room-101'),
 /*
 -- =========================================================================== Z
 Contributeurs :
-  (LR) Lea.Roy4@USherbrooke.ca
-  (MBL)Matis.BerubeLauziere@USherbrooke.ca
+ 
   (GK) Kosg1101@usherbrooke.ca
 
 Tâches projetées :
 
 Tâches réalisées :
-  2023-11-16 (LR) : Création
+  2024-04-16 (GK) : Création
 -- -----------------------------------------------------------------------------
 -- Fin de table-test-val_ins.sql
 -- =========================================================================== Z

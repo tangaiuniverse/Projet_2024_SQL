@@ -2,9 +2,9 @@
 -- =========================================================================== A
 -- Retrait des données des tables du schéma Evenement
 -- -----------------------------------------------------------------------------
-Produit  : KAO
+Produit  : POPO
 Version  : 0.0.0
-Statut   : en développement
+Statut   : FINI
 -- =========================================================================== A
 */
 --
@@ -125,14 +125,13 @@ EXECUTE FUNCTION update_inscription_dates();
 /*
 -- =========================================================================== Z
 Contributeurs :
-  (LR) Lea.Roy4@USherbrooke.ca
-  (MBL)Matis.BerubeLauziere@USherbrooke.ca
+ 
   (GK) Kosg1101@usherbrooke.ca
 
 Tâches projetées :
 
 Tâches réalisées :
-  2023-11-16 (LR) : Création
+  2024-04-16 (GK) : Création
 -- -----------------------------------------------------------------------------
 -- Fin de table_ret.sql
 -- =========================================================================== Z
